@@ -1,4 +1,4 @@
-/node_modules
+flaskr/node_modules
 * .pyc
 __pycache__ 
-/model
+flaskr/model
